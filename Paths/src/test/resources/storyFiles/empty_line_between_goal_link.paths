@@ -1,0 +1,19 @@
+Haunted House
+
+::Beginnings
+You are in a small, dimly lit room. There is a door in front of you.
+[Try to open the door](Another room)
+
+<Gold:10>
+
+::Another room
+The door opens to another room. You see a desk with a large, dusty book.
+[Open the book](The book of spells)
+{Gold:100}
+[Go back](Beginnings)
+
+::The book of spells
+The book opens.
+[Go back](Another room)
+{Score:50}
+{Inventory:sword}

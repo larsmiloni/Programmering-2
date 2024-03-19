@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Pixelade';
+    src: url("Press_Start_2P/PressStart2P-Regular.ttf") format("truetype");
+}
+
+* {
+    -fx-text-fill: black;
+    -fx-font-family: "Press Start 2P";
+}
+
+.label {
+    -fx-font-size: 60;
+}
+
+.button {
+    -fx-font-size: 28;
+    -fx-background-color: transparent;
+}
+
+.button:hover {
+    -fx-text-fill: white;
+}

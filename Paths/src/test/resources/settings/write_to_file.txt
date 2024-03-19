@@ -1,0 +1,2 @@
+Music Volume: 30.0
+Sound Volume: 60.0

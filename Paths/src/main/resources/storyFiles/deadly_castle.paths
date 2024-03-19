@@ -1,0 +1,96 @@
+The castle
+
+::Introduction
+You are an adventurer, determined to explore the deadly castle on the outskirts of the kingdom. Legend has it that it houses a fierce dragon that has trapped a beautiful princess on top of the castle tower. You know the dangers, but the lure of this legend is too strong to resist.
+[Travel to the castle](Entrance)
+{Inventory:Rusty sword}
+
+::Entrance
+As you approach the castle, you feel a chill run down your spine. The gate is rusted, and the walls are crumbling. You push the gate open and step inside. The courtyard is overgrown with weeds, and the castle looks abandoned. You pick up a sword from the ground. It is well-used, but it will suffice. In front of you, there is a staircase leading up to the castle's main entrance.
+[Ascend the staircase](The Great Hall)
+[Look for another way in](The Courtyard)
+
+::The Great Hall
+You enter the castle's great hall. The room is massive, with high ceilings and tall windows. But the room is also filled with danger. You see skeletons lying on the ground, and cobwebs cover the walls. In the corner, you see a chest.
+[Go back to entrance](Entrance)
+[Open the chest](Enchanted sword)
+{Inventory:Enchanted sword}
+{Gold:50}
+{Score:10}
+
+::Enchanted sword
+You open the chest to find some gold coins, along with a gleaming blue and pink sword, akin to the ocean, with a gold-encrusted hilt. As you lift it up, you feel its power coursing through your veins. You see more chests, however, exploring the room any further feels like it will become a death sentence.
+[Go back to the entrance and find another way in](The Courtyard)
+[Explore more](Spiders)
+
+::Spiders
+As you move towards the next chest you hear a sudden hiss above you. Before you can react a spider chomps off your head, ending your journey for good.
+
+::The Courtyard
+You search the courtyard for another way into the castle. After a few minutes, you see a small hole in the wall. You crawl through it and find yourself in a dark, narrow hallway.
+[Continue down the hallway](The Dungeon)
+
+::The Dungeon
+You find yourself in a dark, damp dungeon. The walls are made of stone, and the air is thick with the smell of mold. On your left you see a prison cell containing a wooden chest. On your right you see a small passage leading into darkness.
+[Go to the prison cell](Chest room)
+[Go through the small passage](Twin gargoyles)
+
+::Chest room
+The chest old. You become wary of a faint sound...a heartbeat?
+[Open chest](Eaten by mimic)
+[Pull out enchanted sword](Defeat mimic)
+<Inventory:[Enchanted sword]>
+{Inventory:Tower key}
+
+::Eaten by mimic
+You open the chest. Suddenly, two arms spring from the sides of the chest and pulls you closer. It is a mimic! It chomps its deadly teeth into your body, consuming you whole.
+
+::Defeat mimic
+As you pull out your sword, the chest lunges at you, lid wide open. A gaping wide mouth meets your eye, filled with thousands of sharp teeth and a pink tongue. It is a mimic! However, with the power of the enchanted sword, you easily dodge its attack and deliver a fatal blow. From its corpse you pick up a shiny, golden key, with a faint inscription - "tower".
+[Go back and enter the small passage](Twin gargoyles)
+
+::Twin gargoyles
+The narrow passage eventually leads to a bigger area. At the end of the room, you see an exit, however its blocked by a viscous pair of twin gargoyles, equipped with powerful spears.
+[Run like a madman to the exit](Long corridor)
+{Health:-5}
+[Battle the gargoyles](Stupid boss)
+{Health:-25}
+
+::Stupid boss
+You lunge at one of the gargoyles and start attacking. However, since you are outnumbered they easily defeat you by having you focus on one opponent while the other attacks you while you are distracted. What a stupid boss. The final thing you feel is a fatal slash to your back.
+
+::Long corridor
+Dumbfounded by your strategy, the gargoyles are frozen as you sprint to the exist. However, you trip on a rock and slam your face to the ground, taking minor damage, but you quickly recover and make it through the exit, almost unscathed. You run up several flights of stairs until you finally reach a long corridor, leading to a fork. One path leads to the tower. Wasn't the princess in the tower? The other leads to the throne room.
+[Climb up to the tower](Tower)
+[Go to the throne room](Throne room)
+
+::Tower
+The room on top of the tower is blocked off by a thick and impregnable door. You ram your shoulder into the door, but the only thing that gets broken is your bones. On the door is a golden keyhole - likely the only way to unlock it. On the other side, you can hear the princess crying.
+[Use tower key](Rescue princess)
+<Inventory:[Tower key]>
+[Go back](No princess)
+
+::Rescue princess
+You use the tower key to unlock the door and rescue the princess. All teary-eyed, the princess jumps into your arms, shivering from happiness.
+[Go back down to the throne room](Throne room)
+{Inventory:Princess}
+
+::No princess
+You climb down the tower, disheartened as you could not rescue the princess. Maybe defeating the dragon could help you?
+[Go the to throne room](Throne room)
+
+::Throne room
+Having gone through many hurdles, you enter the throne room. Inside is a monstrous, crimson red dragon. A dark, orange light starts forming in its throat, as the dragon prepares to grill you whole with a powerful flame breath.
+[Attack the head](Grilled alive)
+[Attack its tail](Bad ending)
+[Attack its tail with the princess](Good ending)
+<Inventory:[Princess]>
+
+::Grilled alive
+You sprint towards its head, however because you are approaching head on, you become an easy target. A wave of fiery magma hits you, grilling you alive.
+
+::Bad ending
+You sprint towards its tail, around the dragon, barely avoiding a cascade of magma and fire. You slash its tail. Suddenly the dragon explodes, engulfing the room in flames. You run out as fast as you can and barely reach the exit as the whole castle explodes. You can barely get a glimse of the tower that crashes down into the dancing flames. You defeated the dragon, but there is no princess left to thank you. A bitter sweet ending to your journey, as you walk into the sunny horizon.
+
+::Good ending
+Both you and the princess sprint towards the dragons tail in a circular path, barely avoiding a cascade of magma and fire. You slash its tail. Suddenly the dragon explodes, engulfing the room in flames. You run out as fast as you can with the princess in your arms, barely reaching the exit as the whole castle explodes. The princess thanks you for saving her and asks to be your bride. Your journey has been fruitful and you walk to the sunny horizon, hand in hand with the princess.

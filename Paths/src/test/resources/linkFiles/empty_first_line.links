@@ -1,0 +1,9 @@
+
+[Try to open the door](Another room)
+<Inventory:[sword, spear]>
+{Inventory:Sword}
+
+[Open the book](The book of spells)
+<Gold:10>
+{Health:20}
+

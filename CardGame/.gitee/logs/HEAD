@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 13ee8cf8439164d0b2c1d47f4b78d748971e16cd lmlnilse <lmlnilse@stud.ntnu.no> 1677756306 +0100	commit (initial): Initial commit.
+13ee8cf8439164d0b2c1d47f4b78d748971e16cd 6504d8955ce58caf88cee6f1a21cb111e7a04de5 lmlnilse <lmlnilse@stud.ntnu.no> 1677757922 +0100	commit: Added necessary dependencies and plugins to POM file.
+6504d8955ce58caf88cee6f1a21cb111e7a04de5 499b63f3dd7255bf2024716fb2422da7dc1209c3 lmlnilse <lmlnilse@stud.ntnu.no> 1677758130 +0100	commit: Changed Main class in POM file to edu.ntnu.arbeidskrav4.Main.
+499b63f3dd7255bf2024716fb2422da7dc1209c3 093c330a520a9eb408886bcf38a47fc6b252f75d lmlnilse <lmlnilse@stud.ntnu.no> 1677760702 +0100	commit: Added constructor that fills a deck with cards and shuffles it.
+093c330a520a9eb408886bcf38a47fc6b252f75d e422717503bf568441045fcb669e9f7368409fad lmlnilse <lmlnilse@stud.ntnu.no> 1677761982 +0100	commit: Added HandOfCards class that represents a hand of cards.
+e422717503bf568441045fcb669e9f7368409fad c2520009980728e2daa0ba06e99ba843c736a09d lmlnilse <lmlnilse@stud.ntnu.no> 1678184909 +0100	commit: Made test GUI.
+c2520009980728e2daa0ba06e99ba843c736a09d 19bf0472312b08638700ef4bfcd6aaced907525a lmlnilse <lmlnilse@stud.ntnu.no> 1678188220 +0100	commit: Made improvements to GUI.
+19bf0472312b08638700ef4bfcd6aaced907525a e6363d52931769d09486e359f335e99e038bf110 lmlnilse <lmlnilse@stud.ntnu.no> 1678311454 +0100	commit: Made improvements to the GUI and gave Deal Hand button functionality.
+e6363d52931769d09486e359f335e99e038bf110 e6363d52931769d09486e359f335e99e038bf110 lmlnilse <lmlnilse@stud.ntnu.no> 1678534910 +0100	reset: moving to HEAD
+e6363d52931769d09486e359f335e99e038bf110 0f780737cb270fb27be42a14a0888cb9f3c15679 lmlnilse <lmlnilse@stud.ntnu.no> 1678537326 +0100	commit: Made CardGame class. Made big changes in GUI.
+0f780737cb270fb27be42a14a0888cb9f3c15679 2328119a6162b6dc45d7eb71058fb79e402c4db2 lmlnilse <lmlnilse@stud.ntnu.no> 1678538433 +0100	commit: Added playing card pictures to resources.
+2328119a6162b6dc45d7eb71058fb79e402c4db2 bee89a81a02331388c163b46595e7bfcd5cf26a5 lmlnilse <lmlnilse@stud.ntnu.no> 1678543568 +0100	commit: Added image functionality.
+bee89a81a02331388c163b46595e7bfcd5cf26a5 dbd469accb6b1f2d74410a04add967d0e333df69 lmlnilse <lmlnilse@stud.ntnu.no> 1679395419 +0100	commit: Made tests for all classes in cardGame
+dbd469accb6b1f2d74410a04add967d0e333df69 4bfe9f6e53f0e23240a2e5eac8cc350a9e35c0a6 lmlnilse <lmlnilse@stud.ntnu.no> 1679395515 +0100	pull --no-stat -v --progress source main: Fast-forward

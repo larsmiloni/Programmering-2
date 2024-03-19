@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "source"]
+	url = git@gitlab.stud.idi.ntnu.no:lmlnilse/cardgame.git
+	fetch = +refs/heads/*:refs/remotes/source/*
+[branch "master"]
+	remote = source
+	merge = refs/heads/master
